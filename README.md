@@ -1,14 +1,14 @@
 # SC1015-final-project-group-7
 # Introduction 
-This is our (FCS3 Group 07) mini-project for SC1015 Data Science & Artificial Intelligence 2024. The aim of our project is to create a model that predicts whether songs on Spotify will be successful based on certain variables. 
+This is our (FCS3 Group 07) mini-project for SC1015 Data Science & Artificial Intelligence 2024. This project aims to explore the relationship between a song's inherent characteristics and its success. 
 The dataset we will be using is [30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs) from [Kaggle](https://www.kaggle.com/).
+
+By exploring the data set and building machine learning models for predicting the track_popularity, we hope to gain insights into what factors contribute to a song's popularity and success.
 
 ![image](https://github.com/pbcong/SC1015-final-project-group-7/blob/main/Screenshot%202024-04-24%20192949.png?raw=true)
 
 # Problem Statement
 ### Can we predict the popularity of a song based on their various features?
-
-This project aims to explore the relationship between a song's inherent characteristics and its success. By building a machine learning model, we hope to gain insights into what factors contribute to a song's popularity and use those insights for prediction.
 
 # Contributors 
 <ul>
