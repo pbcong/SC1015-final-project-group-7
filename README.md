@@ -17,10 +17,6 @@ This project aims to explore the relationship between a song's inherent characte
   <li>Pham Nguyen Vu Hoang: Data cleaning, Create slides and script</li>
 </ul>
 
-<h1> Problem statement </h1>
-
-### Can we leverage machine learning to predict the popularity of a song based on its various features?
-
 <h2> Library/packages </h2>
 <ul>
   <li>Numpy</li>
