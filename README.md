@@ -101,7 +101,7 @@ These insights provide a foundation for future iterations of the project.
   <li>Uni & Multi-Variate Analysis</li>
   <li>Various machine learning models like: RandomForestRegressor, ElasticNet, XGBRegressor</li>
   <li>Feature Engineering</li>
-  <li>Fine tuning the hyperparameters</li>
+  <li>Fine tuning hyperparameters using GridSearchCV</li>
   <li>Other libraries like tqdm</li>
 </ol>
 
